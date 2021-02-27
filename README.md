@@ -3,7 +3,7 @@
 
 ### 🤘 Espero que goste do meu perfil! 🤘 
 
-- 💻: Desenvolvedor Java Jr. em Contrução - Generation Brasil 
+- 💻: Desenvolvedor Java Jr. em Construção - Generation Brasil 
 - 🎓: Estudante de Bacharelado em Ciência e Tecnologia  - UNIVERSIDADE FEDERAL DO ABC
 - ⚙️: Futuro Engenheiro de Gestão - UNIVERSIDADE FEDERAL DO ABC
 
