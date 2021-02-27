@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/SUDr9512mOzZrAbMcv/giphy.gif" width="40px"> HEEEEY, PESSOA! TUDO BEM? <img src="https://media.giphy.com/media/2dfecZTlVPrr8Q72MW/giphy.gif" width="40px">
+### <img src="https://media.giphy.com/media/SUDr9512mOzZrAbMcv/giphy.gif" width="40px"> HEEEEY, PESSOA! TUDO BEM? <img src="https://media.giphy.com/media/2dfecZTlVPrr8Q72MW/giphy.gif" width="40px">
 <img align="right" width="450px" src="https://github.com/nicolasfvasconcelos/nicolasfvasconcelos/blob/main/passarinho.gif">
 
 ### 🤘 Espero que goste do meu perfil! 🤘 
