@@ -7,7 +7,7 @@
 - 🎓: Estudante de Bacharelado em Ciência e Tecnologia
 - ⚙️: e Futuro Engenheiro de Gestão - UNIVERSIDADE FEDERAL DO ABC
 
-🔗 Para mais informações <img src="https://media.giphy.com/media/SUDr9512mOzZrAbMcv/giphy.gif" width="40px"> <a href="https://www.linkedin.com/in/nicolas-f-vasconcelos-372577100/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+### 🔗 Para mais informações <img src="https://media.giphy.com/media/SUDr9512mOzZrAbMcv/giphy.gif" width="40px"> <a href="https://www.linkedin.com/in/nicolas-f-vasconcelos-372577100/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
 ### <img src="https://media.giphy.com/media/xl1wJfNsy2mwjCi38I/giphy.gif" width="60px">   STATUS DO GITHUB  <img src="https://media.giphy.com/media/xl1wJfNsy2mwjCi38I/giphy.gif" width="60px">
 
