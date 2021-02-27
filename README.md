@@ -11,7 +11,7 @@
 
 ### <img src="https://media.giphy.com/media/xl1wJfNsy2mwjCi38I/giphy.gif" width="60px">   STATUS DO GITHUB  <img src="https://media.giphy.com/media/xl1wJfNsy2mwjCi38I/giphy.gif" width="60px">
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/nicolas-f-vasconcelos/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-f-vasconcelos/)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
