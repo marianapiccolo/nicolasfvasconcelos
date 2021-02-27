@@ -7,7 +7,7 @@
 - 🎓: Estudante de Bacharelado em Ciência e Tecnologia  - UNIVERSIDADE FEDERAL DO ABC
 - ⚙️: Futuro Engenheiro de Gestão - UNIVERSIDADE FEDERAL DO ABC
 
-🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/nicolas-f-vasconcelos-372577100/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+🔗 Para saber me conhecer melhor, segue meu LinkedIn: <a href="https://www.linkedin.com/in/nicolas-f-vasconcelos-372577100/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
 # Status do GitHub  <img src="https://media.giphy.com/media/4PXO364cv8eISZLVGu/giphy.gif" width="40px">
 
