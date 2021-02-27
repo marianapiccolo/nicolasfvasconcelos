@@ -1,5 +1,5 @@
 # ---> HEEEEY, PESSOA! TUDO BEM? <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="40px">
-<img align="right" width="260px" src="https://github.com/nicolasfvasconcelos/nicolasfvasconcelos/blob/main/passarinho.gif">
+<img align="right" width="280px" src="https://github.com/nicolasfvasconcelos/nicolasfvasconcelos/blob/main/passarinho.gif">
 
 ### 🤘 Espero que goste do meu perfil! 🤘 
 
