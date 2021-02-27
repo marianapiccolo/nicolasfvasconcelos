@@ -9,7 +9,7 @@
 
 ### 🔗 Para mais informações <img src="https://media.giphy.com/media/SUDr9512mOzZrAbMcv/giphy.gif" width="40px"> <a href="https://www.linkedin.com/in/nicolas-f-vasconcelos-372577100/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
-### <img src="https://media.giphy.com/media/xl1wJfNsy2mwjCi38I/giphy.gif" width="60px">   STATUS DO GITHUB  <img src="https://media.giphy.com/media/xl1wJfNsy2mwjCi38I/giphy.gif" width="60px">
+## <img src="https://media.giphy.com/media/xl1wJfNsy2mwjCi38I/giphy.gif" width="60px">   STATUS DO GITHUB  <img src="https://media.giphy.com/media/xl1wJfNsy2mwjCi38I/giphy.gif" width="60px">
 
 ![Git](https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974)
 ![GitHub](https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562)
