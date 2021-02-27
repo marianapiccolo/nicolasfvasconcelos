@@ -4,8 +4,8 @@
 ### 🤘 Espero que goste do meu perfil! 🤘 
 
 - 💻: Desenvolvedor Java Jr. em Construção - Generation Brasil 
-- 🎓: Estudante de Bacharelado em Ciência e Tecnologia  - UNIVERSIDADE FEDERAL DO ABC
-- ⚙️: Futuro Engenheiro de Gestão - UNIVERSIDADE FEDERAL DO ABC
+- 🎓: Estudante de Bacharelado em Ciência e Tecnologia
+- ⚙️: e Futuro Engenheiro de Gestão - UNIVERSIDADE FEDERAL DO ABC
 
 🔗 Para saber me conhecer melhor, segue meu LinkedIn: <a href="https://www.linkedin.com/in/nicolas-f-vasconcelos-372577100/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
